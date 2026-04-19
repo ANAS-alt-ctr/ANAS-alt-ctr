@@ -1,6 +1,36 @@
 # 💫 About Me:
-👋**Hi, I'm Anas Riaz** 
-/n AI & Data Science Intern | AI Agents & Automation Specialist I am an AI and Data Science practitioner focused on bridging the gap between theoretical models and production-ready, real-world solutions. Currently, I am an intern at Saylani Mass IT Training (SMIT), where I design agentic workflows and Generative AI systems.🚀 What I’m Working OnAgentic AI & Automation: Building multi-agent systems and seamless pipelines using n8n.Generative AI: Developing RAG pipelines and LLM orchestration projects.Production-Ready Systems: Focusing on scalability and real-world usability using Python and FastAPI.🛠️ Tech StackLanguages & Frameworks: Python (Pandas, NumPy, Scikit-Learn), FastAPI.AI & Automation: Generative AI, Agentic Workflows, n8n, Deep Learning.Tools & Databases: PostgreSQL, Git, GitHub, Docker (Basics).📂 Featured ProjectAI-Powered Financial Assistant Built a Telegram + web-based assistant using Gemini AI, FastAPI, and PostgreSQL.Orchestrated complex backend workflows with n8n.📜 CertificationsOracle: 2025 Generative AI Professional.J.P. Morgan: Quantitative Research Job Simulation.IBM & Anthropic: Data Science and Generative AI Specializations.Hugging Face: Generative AI and Data Science.📫 Connect with MeLinkedIn: linkedin.com/in/anas-riaz-031478271 Email: anasriaz0003@gmail.com Location: Karachi, Pakistan 
+
+👋 Hi, I'm **Anas Riaz**.  
+**AI & Data Science Intern | [cite_start]Building AI Agents & Automation Workflows**[cite: 15, 16].
+
+[cite_start]I am an AI and Data Science practitioner dedicated to bridging the gap between theoretical concepts and production-ready solutions[cite: 19]. [cite_start]Currently, I am an **AI & Data Science Intern** at **Saylani Mass IT Training (SMIT)**, where I design agentic workflows and Generative AI systems[cite: 20].
+
+### 🚀 What I’m Working On:
+* **Agentic AI & Automation**: Building multi-agent systems and seamless pipelines using **n8n**[cite: 23, 38].
+* [cite_start]**Generative AI**: Developing **RAG pipelines**, LLM orchestration, and practical Generative AI solutions[cite: 23, 37].
+* [cite_start]**Production-Ready Systems**: Specializing in Python-powered systems with a focus on **automation, scalability, and usability**[cite: 21].
+
+### 🛠️ Tech Stack:
+* **Languages & Frameworks**: Python (Pandas, NumPy, Scikit-Learn), FastAPI[cite: 22].
+* [cite_start]**AI & Automation**: Generative AI, LLM orchestration, Agentic workflows, n8n[cite: 23].
+* [cite_start]**Databases & Tools**: PostgreSQL, Git, GitHub, Docker (basics)[cite: 23].
+
+### 📂 Featured Project:
+[cite_start]**AI-Powered Financial Assistant** [cite: 23]
+* [cite_start]Developed a Telegram and web-based assistant utilizing **Gemini AI**, **FastAPI**, and **PostgreSQL**[cite: 23].
+* Integrated **n8n** for robust backend workflow orchestration[cite: 23].
+
+### 📜 Certifications:
+* [cite_start]**Oracle**: Generative AI Professional[cite: 23].
+* **J.P. [cite_start]Morgan**: Quantitative Research Job Simulation[cite: 10].
+* **IBM & Anthropic**: Specializations in Data Science and Generative AI[cite: 23].
+* [cite_start]**Hugging Face**: Data Science and Generative AI[cite: 23].
+* [cite_start]**Forage Academy**: Data Labeling Job Simulation[cite: 12].
+
+### 📫 Connect with Me:
+* [cite_start]**LinkedIn**: [linkedin.com/in/anas-riaz-031478271](https://www.linkedin.com/in/anas-riaz-031478271) [cite: 3, 4]
+* [cite_start]**Email**: [anasriaz0003@gmail.com](mailto:anasriaz0003@gmail.com) [cite: 2]
+* **Location**: Karachi, Pakistan [cite: 17]
 
 
 ## 🌐 Socials:
